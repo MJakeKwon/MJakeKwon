@@ -1,12 +1,4 @@
-- 👋 Hi, I’m KwonMinjae
-- 👀 I’m interested in ... Computer Sicence
-- 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ... Java
-- 📫 How to reach me ... ???
-- 😄 Pronouns: ... ??
-- ⚡ Fun fact: ... Coding, Exercise
-
-<!---
-MJakeKwon/MJakeKwon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 이름 : 권민재
+- 주언어 java
+- 가능한 언어 java, javascript, pyhton(공부중)
+- 클라우드 경험 있음
