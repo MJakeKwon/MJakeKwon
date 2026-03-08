@@ -22,4 +22,4 @@
 
 ### Others
 - Kafka, RabbitMQ
-- Vue.js, Electron
+- Vue.js, Electron, React
