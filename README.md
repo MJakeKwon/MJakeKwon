@@ -19,7 +19,7 @@
 
 ### Infra / DevOps
 - AWS EC2, S3, CloudFront, ECS, NCP, GCP
-- Docker, GitHub Actions
+- Docker, GitHub Actions, Jenkins
 
 ### Others
 - Kafka, RabbitMQ
